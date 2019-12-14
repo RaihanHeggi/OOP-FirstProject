@@ -2,7 +2,7 @@
 This is My First OOP Project and still have many bugs
 this project using Java Programming Language 
 
-1.Need to have Netbeans 8.0 or higher/ Java IDE
+1.Need to have Netbeans 8.2 or higher/ Java IDE
 
 2.Need to have XAMPP to Run the Database 
 
